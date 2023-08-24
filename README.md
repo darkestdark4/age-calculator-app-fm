@@ -6,15 +6,12 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -82,4 +79,4 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 ## Author
 
 - Website - [Bima Indra](https://www.linkedin.com/in/bima-indra-026389125)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/darkestdark4)
+- Frontend Mentor - [@darkestdark4](https://www.frontendmentor.io/profile/darkestdark4)
