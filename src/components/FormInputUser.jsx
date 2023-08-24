@@ -6,7 +6,7 @@ const FormInputUser = (props) => {
   }
 
   return <>
-    <div className="flex flex-wrap sm:justify-start justify-between flex-row sm:gap-6">
+    <div role="userinput" className="flex flex-wrap sm:justify-start justify-between flex-row sm:gap-6">
       <div className="flex flex-col sm:w-40 w-[30%]">
         <Input 
           label="day" 
